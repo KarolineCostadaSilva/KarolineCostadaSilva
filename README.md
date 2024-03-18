@@ -5,7 +5,7 @@
   <li><em>Bachelor of Biological Science from <a href="https://portal.unicap.br/">UNICAP.<a/></em></li>
   <li><em>Specialist of Data Science from <a href="https://posdatascience.cin.ufpe.br/">UFPE.<a/></em></li>
   <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
-  <li><em>(In progress) Master's degree in Computer Science from <a href="https://posdatascience.cin.ufpe.br/">UFPE.<a/></em></li>
+  <li><em>(In progress) Master's degree in Computer Science from <a href="https://secpos.cin.ufpe.br/">UFPE.<a/></em></li>
 </ul>
 
 
