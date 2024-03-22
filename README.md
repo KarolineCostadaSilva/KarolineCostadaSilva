@@ -22,7 +22,7 @@
 <div align="center">
   <img align="right" height="220" alt="coding-time" src="assets/cat-code.gif">
   <p align="left">
-    <a href="https://github.com/johnnycleiton07">
+    <a href="https://github.com/KarolineCostadaSilva">
       <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,bash,cpp,docker,windows,linux,ubuntu,vscode,pycharm,tensorflow,github,git,sqlite,mysql,java,r,py,opencv,pytorch,sklearn,obsidian,notion,mongodb,postgres,powershell,ros,latex&perline=8"/>
     </a>
   </p>
